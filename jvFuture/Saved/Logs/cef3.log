@@ -5,3 +5,16 @@
 [1130/155114.521:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [1130/155114.521:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [1206/231846.253:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1215/145649.471:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1215/145700.252:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 29
+[1215/145722.909:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 57
+[1215/145729.193:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1215/145729.193:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1215/145732.232:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1215/145732.232:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1215/161806.693:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1215/161806.713:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1215/161943.876:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1215/161955.922:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1215/162023.506:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1215/162204.673:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
